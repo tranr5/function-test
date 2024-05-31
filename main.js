@@ -8,3 +8,4 @@ function computeArea (width,height) {
 }
 
 console.log(computeArea(5,5))
+//?
